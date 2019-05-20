@@ -1,4 +1,4 @@
-FROM schoolofdevops/maven
+FROM maven
 
 WORKDIR /app
 
